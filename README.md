@@ -9,4 +9,4 @@ It introduce a framework for detecting malicious encrypted traffic based on BERT
 ![image](https://github.com/bbOwOdd/EMTFDB/blob/main/Compared%20results.png)
 
 ## Reference
-![image](https://hdl.handle.net/11296/34g2b7)
+https://hdl.handle.net/11296/34g2b7
