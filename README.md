@@ -2,6 +2,8 @@
 It introduce a framework for detecting malicious encrypted traffic based on BERT model. In addition, the result is compared with other three famous models including random forest, XGBoost and LSTM.
 
 ## The Framework and The BERT Model Architecture
+![image](https://github.com/bbOwOdd/EMTFDB/blob/main/framework.png)
 ![image](https://github.com/bbOwOdd/EMTFDB/blob/main/BERT%20architecture.png)
 
 ## The Compared Results with Different Models
+![image](https://github.com/bbOwOdd/EMTFDB/blob/main/Compared%20results.png)
