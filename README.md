@@ -3,4 +3,5 @@ It introduce a framework for detecting malicious encrypted traffic based on BERT
 
 ## The Framework and The BERT Model Architecture
 
+
 ## The Compared Results with Different Models
