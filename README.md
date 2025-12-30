@@ -1,5 +1,5 @@
 ## EMTDB (Encrypted Malicious Traffic Flow Detection using BERT)
-It introduces a framework for detecting malicious encrypted traffic based on BERT model. In addition, the result is compared with other three famous models including random forest, XGBoost and LSTM.
+Introduced a framework for detecting malicious encrypted traffic based on BERT model. In addition, the result is compared with other three famous models including random forest, XGBoost and LSTM.
 
 ## The Framework and The BERT Model Architecture
 ![image](https://github.com/bbOwOdd/EMTFDB/blob/main/framework.png)
